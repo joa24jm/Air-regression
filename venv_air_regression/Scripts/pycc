@@ -1,0 +1,3 @@
+#!C:\Users\joa24jm\Documents\Air-regression\venv_air_regression\Scripts\python.exe
+from numba.pycc import main
+main()
